@@ -4,7 +4,7 @@ apply plugin: 'io.quarkus.gradle.plugin'
 group 'quarkus-gradle'
 version '1.0-SNAPSHOT'
 
-sourceCompatibility = 1.8
+sourceCompatibility = 11
 buildscript {
     repositories {
         mavenCentral()
