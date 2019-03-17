@@ -6,7 +6,7 @@ import javax.enterprise.context.ApplicationScoped;
 public class SampleService {
 
     public String helloQuarkus() {
-        return "Hello, quarkusssss\n";
+        return "Hello, quarkus\n";
     }
 
 }
